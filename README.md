@@ -1,2 +1,2 @@
-Stock-Price-analyzer
+Stock-Price-analyzer:
 A ML app which helps in predicting stock prices.
